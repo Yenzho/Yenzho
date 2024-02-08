@@ -34,7 +34,7 @@ Hi! Im a certified specialist, an electrical engineer. Recently, I retrained as 
 </div>
 
 ### 💻 Projects:
-| Название | Инструменты |
+| Title | Tools |
 | :--------: | :-------: |
 |[SQL Аviatransportations training base](https://github.com/Yenzho/Sql_final_project) |<img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white"/>|
 |[Employee satisfaction level](https://github.com/Yenzho/Hm_22_Diploma) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/>
