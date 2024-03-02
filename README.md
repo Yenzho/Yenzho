@@ -31,6 +31,7 @@ Hi! Im a certified specialist, an electrical engineer. Recently, I retrained as 
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MSSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 ### 💻 Projects:
@@ -41,3 +42,4 @@ Hi! Im a certified specialist, an electrical engineer. Recently, I retrained as 
 |[Exploratory Data Analysis of world happiness](https://github.com/Yenzho/Hm_15_visual) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly&logoColor=orange"/><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/>||
 |[Training Test with A/B Tests](https://github.com/Yenzho/Hm_20_A_B) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/>
 |[Analytics about some games, Creating of a spam filter for messages](https://github.com/Yenzho/hm_21_case) |<img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/><img src="https://img.shields.io/badge/Sklearn-black?style=flat-square&logo=scikitlearn&logoColor=orange"/><img src="https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy&logoColor=orange"/><img src="https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy&logoColor=orange"/>
+|[T-SQL practice](https://github.com/Yenzho/T-SQL) |<img src="https://img.shields.io/badge/MicrosoftSQLserver-black?style=flat-square&logo=microsoftsqlserver&logoColor=orange"/>
